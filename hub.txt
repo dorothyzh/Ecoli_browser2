@@ -1,0 +1,6 @@
+hub bacteria.15
+shortLabel RefSeq 'bacteria.15'
+longLabel bacteria.15 RefSeq genomes, category 'Bacterial'
+genomesFile genomes.txt
+email zhdorothy5@gmail.com
+descriptionUrl bacteria.15.html
